@@ -1,0 +1,2 @@
+C:/Users/burra/hostel_management/HMS-Hostel_Management_System/hostel_management_system/android/app/.cxx/Debug/9231in1w/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/burra/hostel_management/HMS-Hostel_Management_System/hostel_management_system/android/app/.cxx/Debug/9231in1w/x86_64/CMakeFiles/rebuild_cache.dir
